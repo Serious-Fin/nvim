@@ -32,6 +32,7 @@ Close and re-open NeoVim to install new languge highlighting.
 
 `:LspInfo` - show currently connected LSPs
 `:h vim.lsp.buf` - display all available functions, that can be called by LSP. These can be mapped by shortcuts.
+`:Mason` - to see installed and ready to use LSPs
 
 # Shortcuts
 `K` - display hover LSP info for function under cursor
@@ -40,3 +41,27 @@ Close and re-open NeoVim to install new languge highlighting.
 `ctrl - e` - open file explorer
 `ctrl - p` - search for file by name
 `ctrl - f` - grep for word
+
+# Configured languages
+|Language|Syntax highlighting|LSP|
+|--------|-------------------|---|
+|Lua|Yes|Yes|
+|TypeScript\JavaScript|Yes|Yes|
+|JSON|Yes|Yes|
+|GoLang|Yes|Yes|
+|HTML|Yes|Yes|
+|bash|Yes|Yes|
+|c/c++|Yes|Yes|
+|Docker|Yes|Yes|
+|Elixir|Yes|Yes|
+|PHP|Yes|Yes|
+|VIM|Yes|Yes|
+|SQL|Yes|Yes|
+|Svelte|Yes|Yes|
+|Rust|Yes|Yes|
+|Zig|Yes|Yes|
+
+
+
+
+
