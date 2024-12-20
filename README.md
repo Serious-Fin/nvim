@@ -4,8 +4,7 @@
 Clone this repository to location where NewVim expects the config to be on your machine.
 For Ubuntu it's:
 ```
-mkdir -p ~/.config/nvim
-cd ~/.config/nvim
+cd ~/.config
 git clone https://github.com/Serious-Fin/nvim.git
 ```
 
