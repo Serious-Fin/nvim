@@ -1,2 +1,3 @@
-require("config/options")
-require("config/key_mappings")
+require("preferences/options")
+require("preferences/key_mappings")
+require("config/lazy")
