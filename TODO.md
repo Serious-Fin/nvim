@@ -1,3 +1,1 @@
-- [ ] Add tree-sitter
-- [ ] Add nvim tree
 - [ ] Add rust language support
