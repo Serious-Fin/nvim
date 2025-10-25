@@ -1,0 +1,3 @@
+- [ ] Add theme
+- [ ] Add tree-sitter
+- [ ] Add nvim tree
