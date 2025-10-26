@@ -1,1 +1,5 @@
 - [ ] Add rust language support
+- [ ] Add snippet recommendation
+- [ ] Add LSP hints for rust
+- [ ] Add language specific println!("{<cursor here>}"); shortcut
+- [ ] Add welcome screen
