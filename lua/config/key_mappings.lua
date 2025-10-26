@@ -1,6 +1,7 @@
 local global = vim.g
 
 global.mapleader = " " -- Maps <Leader> key which is used for user defined key mappings
+global.maplocalleader = "," -- Maps <LocalLeader> key which is used for buffer specific key mappings
 
 -- Remap vim shortcuts to use <Leader> key for convenience
 vim.keymap.set('n', '<Leader>w', ':w<CR>')
