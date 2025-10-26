@@ -1,5 +1,5 @@
-require("preferences/options")
-require("preferences/key_mappings")
-require("config/lazy")
+require("config.options")
+require("config.key_mappings")
+require("config.lazy")
 
 vim.cmd.colorscheme "catppuccin-mocha"
