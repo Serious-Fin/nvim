@@ -14,4 +14,5 @@ vim.keymap.set("n", "<up>", function() print("Use k to move...") end)
 vim.keymap.set("n", "<right>", function() print("Use l to move...") end)
 vim.keymap.set("n", "<down>", function() print("Use j to move...") end)
 
-vim.keymap.set("n", "<Leader>e", ":NvimTreeToggle<CR>")
+vim.keymap.set("n", "<Leader>e", "<Cmd>Neotree<CR>")
+vim.keymap.set("n", "<Leader>E", "<Cmd>Neotree close<CR>")

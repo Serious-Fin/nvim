@@ -1,3 +1,2 @@
-- [ ] Add snippet recommendation
 - [ ] Maybe change nvim-tree with neo-tree?
 - [ ] Add debugger for rust
