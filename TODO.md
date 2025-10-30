@@ -1,2 +1,4 @@
-- [ ] Maybe change nvim-tree with neo-tree?
 - [ ] Add debugger for rust
+- [ ] Format the files
+- [ ] Add some comments
+- [ ] Create a readme
